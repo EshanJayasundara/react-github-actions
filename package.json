@@ -1,5 +1,6 @@
 {
   "name": "react-github-actions",
+  "homepage": "https://eshanjayasundara.github.io/react-github-actions/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
